@@ -1,4 +1,4 @@
-let age = 30;
+let age = 45;
 
 if (age < 2) {
     console.log("The person is a baby.");
