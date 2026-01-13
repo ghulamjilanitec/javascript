@@ -1,0 +1,7 @@
+let pizzas = ["malai boti", "Fajita", "tikka"];
+
+for (let pizza of pizzas) {
+    console.log(`I like ${pizza} pizza.`);
+}
+
+console.log("I really love pizza!");
